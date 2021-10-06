@@ -1,0 +1,20 @@
+{
+  "name": "markdown-alu0101232812",
+  "version": "1.0.0",
+  "description": "## Listas * Peras  * Manzanas * Melon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DMSI-1920/markdown-alu0101232812.git"
+  },
+  "keywords": ["markdown"],
+  "author": "Sergio Pitti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DMSI-1920/markdown-alu0101232812/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DMSI-1920/markdown-alu0101232812#readme"
+}
