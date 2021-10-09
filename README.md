@@ -19,7 +19,7 @@
 ```js
 var a = 1;
 a = a + 2;
-````
+```
 
 ## Enlaces
 [Repositorio Markdown][Link_Repositorio]
